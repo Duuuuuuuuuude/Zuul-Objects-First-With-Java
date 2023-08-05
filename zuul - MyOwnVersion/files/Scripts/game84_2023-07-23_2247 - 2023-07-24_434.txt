@@ -1,0 +1,17 @@
+go north
+go east
+go east
+go west
+go right
+eat
+eat cookie
+take Magic_cookie
+eat cookie
+eat cookie
+take Magic_Cookie
+eat cookie
+items
+look
+help
+quit¨
+quit
